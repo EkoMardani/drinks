@@ -1,0 +1,81 @@
+[
+        {
+            "name": "Es Doger",
+            "description": "Es doger adalah salah satu susu kelapa dingin yang sering ditemui di Bandung, Jawa Barat.[1] Walaupun es doger berasal dari Cirebon, es doger juga bisa ditemui di kota-kota besar di Indonesia, seperti Jakarta, Malang, dan Surabaya. Selain rasanya yang enak, es doger juga enak diminum di tempat-tempat yang panas. Es doger juga enak jika diminum setelah melakukan olahraga. Es doger berbahan dasar susu dan parutan kelapa, ditambah dengan tape, ketan hitam, avokad, dan lain-lain.",
+            "categorie":"Minuman Dingin",
+            "place":"Jakarta | Malang | Surabaya",
+            "img": "https://i.pinimg.com/564x/c8/a6/af/c8a6af630166cdf2e74494a4d026d4dc.jpg"
+        },
+	
+	 {
+            "name": "Es dawet",
+            "description": "Dawet merupakan minuman khas Jawa yang terbuat dari tepung beras ataupun tepung beras ketan, disajikan dengan es parut serta gula merah cair dan santan. Rasa minuman ini manis dan gurih. Dawet adalah minuman khas dari kota Banjarnegara[butuh rujukan]. Seiring perkembangan zaman, Es dawet menyebar ke seluruh kota mulai dari Kota Semarang, Solo, Jakarta, Bandung, dan kota lainnya. ",
+            "categorie":"Minuman Dingin",
+            "place":"Bandung",
+            "img": "https://i.pinimg.com/564x/71/b6/16/71b616441ea72187ec1d587fe9623bb0.jpg"
+        },
+	
+	{
+            "name": "Bandrek",
+            "description": "Bandrék adalah minuman tradisional orang Sunda dari Jawa Barat, Indonesia, yang dikonsumsi untuk meningkatkan kehangatan tubuh. Minuman ini biasanya dihidangkan pada cuaca dingin, seperti di kala hujan ataupun malam hari. Bahan dasar bandrék yang paling penting adalah jahe dan gula merah, tetapi pada daerah tertentu biasanya menambahkan rempah-rempah tersendiri untuk memperkuat efek hangat yang diberikan bandrék, seperti serai, merica, pandan, telur ayam kampung, dan sebagainya. Susu juga dapat ditambahkan tergantung dari selera penyajian. Banyak orang Indonesia percaya bahwa bandrék dapat menyembuhkan berbagai penyakit ringan seperti sakit tenggorokan, batuk, dan lain sebagainya. Di Bandung, biasanya penjual menambahkan sejumput kerukan kelapa untuk menambah cita rasa dari Bandrek tersebut. Bandrek biasa dikonsumsi bersama kacang rebus, ubi jalar rebus, dan juga gorengan. ",
+            "categorie":"Minuman Panas",
+            "place":"Jawa Barat",
+            "img": "http://1.bp.blogspot.com/-GspRpagt32o/VIzsGZjWAkI/AAAAAAAABbI/6hgEhPKpS9g/s280/Resep%2Bbandrek.JPG"
+        },
+	
+	 {
+            "name": "Kopi Luwak",
+            "description": "Kopi luwak adalah seduhan kopi menggunakan biji kopi yang diambil dari sisa kotoran luwak/musang kelapa. Biji kopi ini diyakini memiliki rasa yang berbeda setelah dimakan dan melewati saluran pencernaan luwak. Kemasyhuran kopi ini di kawasan Asia Tenggara telah lama diketahui, tetapi baru menjadi terkenal luas di peminat kopi gourmet setelah publikasi pada tahun 1980-an. Biji kopi luwak adalah yang termahal di dunia, mencapai USD100 per 450 gram. ",
+            "categorie":"Minuman Panas/Dingin",
+            "place":"Aceh",
+            "img": "https://i.pinimg.com/564x/8f/77/81/8f77810d47cbf5d10bdd9eeb1325edfa.jpg"
+        },
+	
+	        {
+            "name": "Bir Pletok",
+            "description": "Bir Pletok merupakan minuman tradisional yang segar yang terbuat dari campuran beberapa rempah, yaitu jahe, daun pandan wangi, dan serai. Minuman khas ini dikenal di masyarakat Betawi. Semakin modern minuman khas betawi Jakarta ini sekarang sudah mulai naik kelas, dan akan mudah di dapat di pusat oleh-oleh khas Jakarta.",
+            "categorie":"Minuman Panas",
+            "place":"Jakarta",
+            "img": "https://i.pinimg.com/564x/d7/93/c6/d793c663836b968fd9091a2b933b499e.jpg"
+        },
+	
+	 {
+            "name": "Limun Sarsaparilla",
+            "description": "Limun Sarsaparilla, adalah minuman sarsaparilla atau di kalangan masyarakat tertentu di Daerah Istimewa Yogyakarta disebut Saparella yang di hasilkan dari tanaman Sarsaparilla yang menurut cerita dari masyarakat Yogyakarta khususnya Sleman, adalah minuman para raja-raja pada masanya.Minuman ini merupakan soda hasil dari fermentasi air tanaman sarsaparilla yang pertama di Pulau Jawa. Karena langkanya tanaman ini sehingga membuat minuman ini sulit ditemukan. Dan yang membuat istimewa dari minuman ini adalah karena rasanya yang unik dari soda pada umumnya.Minuman ini lebih segar disajikan dengan menambahkan es batu. Minuman ini diproduksi secara lokal di kota Yogyakarta.",
+            "categorie":"Minuman Dingin",
+            "place":"Yogyakarta",
+            "img": "https://ecs7.tokopedia.net/img/cache/700/product-1/2017/8/26/0/0_9aec9ee4-3f72-46e4-96e3-4e2db79ffa23_384_384.jpg"
+        },
+	
+	{
+            "name": "Juz Martabe",
+            "description": "Juz Martabe berbahan utama teraong belanda dicampur dengan gula dan sirup menjadi minuman yang istimewa untuk dihidangkan. Ditambah bahan es secukupnya untuk dinikmati.",
+            "categorie":"Minuman Dingin",
+            "place":"Sumatra Utara",
+            "img": "http://initu.id/wp-content/uploads/2018/09/juz-martabe.jpg"
+        },
+	
+	 {
+            "name": "Es air mata pengantin",
+            "description": "Es air mata pengantin terdiri dari bermacam agar-agar warna warni. Es ini juga dilengkapi dengan biji selasih, nata de coco, dan blewah serta serutan es batu.",
+            "categorie":"Minuman Dingin",
+            "Kepulauan Riau",
+            "img": "http://initu.id/wp-content/uploads/2018/09/es-air-mata-pengantin-300x225.jpg"
+        },
+
+	{
+            "name": "Juz Pinang",
+            "description": "Jus Pinang merupakan salah satu menu minuman andalan dari masyarakat Jambi. Masyarakat Jambi umumnya percaya bahwa minuman ini dapat meningkatkan sistem kekebalan tubuh, mengatasi masuk angin maupun melancarkan peredaran darah.",
+            "categorie":"Minuman Dingin",
+            "place":"Provinsi Jambi",
+            "img": "http://initu.id/wp-content/uploads/2018/09/resep-jus-pinang-muda-678ab0-300x250.jpg"
+        },
+	
+	 {
+            "name": "Es Kacang Merah.",
+            "description": "Pizza yang dicampur dengan banyak keju, daging, saus, dengan bahan lainnya, mengandung 600 kalori per slice-nya. Sebab, makanan itu mengandung lemak jenuh, sodium, dan karbohidrat yang tinggi.",
+            "categorie":"Minuman Dingin",
+            "place":"Provinsi Sumatera Selatan",
+            "img": "https://i.pinimg.com/564x/06/89/b3/0689b3c3d8f3fd2f35b689431417c978.jpg"
+        }
+]
